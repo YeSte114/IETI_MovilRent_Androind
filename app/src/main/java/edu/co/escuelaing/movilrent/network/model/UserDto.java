@@ -1,0 +1,4 @@
+package edu.co.escuelaing.movilrent.network.model;
+
+public class UserDto {
+}
